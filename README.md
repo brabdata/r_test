@@ -1,5 +1,5 @@
 
-&emsp;&emsp;[![GalaxyStatistics](http://files.cnblogs.com/files/cloudtj/galaxy_logo.bmp)](http://www.galaxystatistics.com/webTJX/mobile/)
+&emsp;&emsp;[![](http://files.cnblogs.com/files/cloudtj/galaxy_logo.bmp)](http://www.galaxystatistics.com/webTJX/mobile/)
 
 ----------
 <br/>
