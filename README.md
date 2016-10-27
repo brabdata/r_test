@@ -5,8 +5,6 @@
 <br/>
 # **R**
 <br/>
-----------
-
 
 -  **R语言学习**
 <br/>
@@ -106,10 +104,6 @@
 <br/>
 	- [R语言-管道操作magrittr包](http://www.cnblogs.com/cloudtj/articles/5569208.html)
 <br/>
-
-
-
-
 
 
 
