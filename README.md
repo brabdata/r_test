@@ -1,7 +1,6 @@
 
 &emsp;&emsp;[![Galaxystatistics](http://files.cnblogs.com/files/cloudtj/galaxy_logo.bmp)](http://www.galaxystatistics.com/webTJX/mobile/)
 
-----------
 <br/>
 # **R**
 <br/>
@@ -106,30 +105,19 @@
 <br/>
 
 
-
-----------
 <br/>
 # **Excel**
 <br/>
-----------
 
 
-
-
-----------
 <br/>
 # **Markdown**
 <br/>
-----------
 
 
-
-----------
 <br/>
 # **VBA**
 <br/>
-----------
-
 
 
 <br/>
