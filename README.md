@@ -139,8 +139,6 @@
 
 
 <br/>
-##&emsp;&emsp;&emsp&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[哈尔滨商业大学统计、统计分析师专业承办中国大数据分析专家协会（BDA）](http://www.galaxystatistics.com/sjfxs/)
-
-
+#####&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[哈尔滨商业大学统计、统计分析师专业承办中国大数据分析专家协会（BDA）](http://www.galaxystatistics.com/sjfxs/)
 
 
